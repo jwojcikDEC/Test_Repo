@@ -7,3 +7,7 @@ print("Hello World")
 #' Adding in more dummy lines
 
 sum(2, 2)
+
+#' 
+
+print("This addition is for testing purposes")
